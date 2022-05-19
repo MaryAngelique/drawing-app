@@ -17,11 +17,13 @@
 
 Users should be able to:
 
-#### - 
+#### - Draw when they hold down the right button on their mouse or trackpads
 
-#### - 
+#### - Change the stroke weight from 5 to 50
 
-#### - 
+#### - Change the color of the paint brush
+
+#### - Clear the canvas
 
 ### Features
 
