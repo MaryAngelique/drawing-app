@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Drawing App GitHub Solution](https://github.com/MaryAngelique/drawing-app)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
